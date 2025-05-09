@@ -8,4 +8,8 @@
 
 ## Day 2: 
 ### Suggestions: 
-#### Vibe coding in simplycode
+* Vibe coding in simplycode
+* All the API calls
+* CI CD in github
+* Test all the things!
+* Creating components in simplycode, extendeing simplycode <- probably this one.
